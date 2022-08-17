@@ -1,0 +1,7 @@
+c:\users\aluno\source\repos\projCoisa\projCoisa\bin\Debug\projCoisa.exe.config
+c:\users\aluno\source\repos\projCoisa\projCoisa\bin\Debug\projCoisa.exe
+c:\users\aluno\source\repos\projCoisa\projCoisa\bin\Debug\projCoisa.pdb
+c:\users\aluno\source\repos\projCoisa\projCoisa\obj\Debug\projCoisa.csprojAssemblyReference.cache
+c:\users\aluno\source\repos\projCoisa\projCoisa\obj\Debug\projCoisa.csproj.CoreCompileInputs.cache
+c:\users\aluno\source\repos\projCoisa\projCoisa\obj\Debug\projCoisa.exe
+c:\users\aluno\source\repos\projCoisa\projCoisa\obj\Debug\projCoisa.pdb
